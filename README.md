@@ -14,11 +14,11 @@
 
 ![Part of a cat photo: the original photo, plain 4× enlargement without AI, NekoScale Enlarge 4× and NekoScale Clean & Enlarge 4×](images/example-4x.png)
 
-*Part of a photo was reduced to 120×120 pixels and saved as a JPG, then enlarged 4× to 480×480 again. Each panel is shown at its real size, with nothing edited, next to the original photo. **Enlarge** keeps the fur looking natural.* **Clean & Enlarge is not recommended for photos:** it smooths fine texture such as fur until it looks painted.
+*Part of a photo (top) was reduced to 120×120 pixels and saved as a JPG, then enlarged 4× to 480×480 again: without AI, and with NekoScale's two purposes. Each panel is shown at its real size, with nothing edited. **Enlarge** keeps the fur looking natural.* **Clean & Enlarge is not recommended for photos:** it smooths fine texture such as fur until it looks painted.
 
 ![Part of a product image: the original image, plain 4× enlargement without AI, NekoScale Enlarge 4× and NekoScale Clean & Enlarge 4×](images/example-product-4x.png)
 
-*Part of a product image was reduced to 120×120 pixels and saved as a strongly compressed JPG (quality 75), then enlarged 4×. **Clean & Enlarge** clears the compression marks and gives clean surfaces and edges.* **Enlarge is not recommended for product images:** it turns compression marks into false detail.
+*Part of a product image (top) was reduced to 120×120 pixels and saved as a strongly compressed JPG (quality 75), then enlarged 4× again the same three ways. **Clean & Enlarge** clears the compression marks and gives clean surfaces and edges.* **Enlarge is not recommended for product images:** it turns compression marks into false detail.
 
 ## What to expect
 
