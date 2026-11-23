@@ -12,11 +12,11 @@
   - **Clean & Enlarge** clears blur, noise and compression marks. For small or compressed product images.
 - Add many files at once (JPG and PNG can be mixed) and upscale them in one go.
 
-![Part of a cat photo: plain 4× enlargement, NekoScale Enlarge 4×, NekoScale Clean & Enlarge 4×, and the original photo](images/example-4x.png)
+![Part of a cat photo: the original photo, plain 4× enlargement without AI, NekoScale Enlarge 4× and NekoScale Clean & Enlarge 4×](images/example-4x.png)
 
 *Part of a photo was reduced to 120×120 pixels and saved as a JPG, then enlarged 4× to 480×480 again. Each panel is shown at its real size, with nothing edited, next to the original photo. **Enlarge** keeps the fur looking natural.* **Clean & Enlarge is not recommended for photos:** it smooths fine texture such as fur until it looks painted.
 
-![Part of a product image: plain 4× enlargement, NekoScale Enlarge 4×, NekoScale Clean & Enlarge 4×, and the original image](images/example-product-4x.png)
+![Part of a product image: the original image, plain 4× enlargement without AI, NekoScale Enlarge 4× and NekoScale Clean & Enlarge 4×](images/example-product-4x.png)
 
 *Part of a product image was reduced to 120×120 pixels and saved as a strongly compressed JPG (quality 75), then enlarged 4×. **Clean & Enlarge** clears the compression marks and gives clean surfaces and edges.* **Enlarge is not recommended for product images:** it turns compression marks into false detail.
 
