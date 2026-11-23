@@ -18,7 +18,7 @@
 
 ![Part of a product image: plain 4× enlargement, NekoScale Enlarge 4×, NekoScale Clean & Enlarge 4×, and the original image](images/example-product-4x.png)
 
-*Part of a product image was reduced to 120×120 pixels and saved as a strongly compressed JPG (quality 75), then enlarged 4×. **Enlarge** turns the compression marks into false detail; **Clean & Enlarge** clears them and gives clean surfaces and edges.* **For small or compressed product images, choose Clean & Enlarge.**
+*Part of a product image was reduced to 120×120 pixels and saved as a strongly compressed JPG (quality 75), then enlarged 4×. **Clean & Enlarge** clears the compression marks and gives clean surfaces and edges.* **Enlarge is not recommended for product images:** it turns compression marks into false detail.
 
 ## What to expect
 
